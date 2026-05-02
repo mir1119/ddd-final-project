@@ -27,3 +27,6 @@ tests/      測試程式
 ## Development Process
 
 本專案使用 GitHub 進行版本控制，透過 commit history 記錄從需求分析、系統設計到實作的完整開發流程。
+## 進度
+* 建立 GitHub repository 
+* 建立基本專案結構
