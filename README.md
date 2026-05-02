@@ -22,3 +22,8 @@ docs/uml/   Mermaid UML 圖
 prompts/    AI 開發提示詞紀錄
 src/        專案原始碼
 tests/      測試程式
+```
+
+## Development Process
+
+本專案使用 GitHub 進行版本控制，透過 commit history 記錄從需求分析、系統設計到實作的完整開發流程。
