@@ -21,7 +21,6 @@ docs/       軟體工程規格書與設計文件
 docs/uml/   Mermaid UML 圖
 prompts/    AI 開發提示詞紀錄
 src/        專案原始碼
-tests/      測試程式
 ```
 
 ## Development Process
