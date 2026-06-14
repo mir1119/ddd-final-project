@@ -1,6 +1,4 @@
----
-id: b4e2c503-f6d7-41dc-ba9c-ac38adcdc104
----
+```mermaid
 classDiagram
 direction LR
 
@@ -83,7 +81,6 @@ RoboticDeveloper --> Robot : registers
 Robot --> Capability : provides
 Robot --> Agent : abstracted as
 
-
 RoboticDeveloper --> Workflow : creates
 Workflow --> Task : contains
 Task --> Capability : requires
@@ -99,3 +96,4 @@ ExecutionRecord --> Workflow : executes
 
 Evaluator --> EvaluationReport : creates
 EvaluationReport --> ExecutionRecord : evaluates
+```
