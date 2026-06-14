@@ -29,3 +29,11 @@ src/        專案原始碼
 ## 進度
 * 建立 GitHub repository 
 * 建立基本專案結構
+* 完成Requirement Analysis
+* 完成System Design
+* 完成UML
+* 完成code
+* 完成prompt紀錄
+* 完成docs紀錄
+
+ 
