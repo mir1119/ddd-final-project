@@ -237,4 +237,4 @@ If the system is later connected to real robotic devices, Task and Workflow exec
 | Execution Record | A record produced by test or deployment execution. |
 | Performance Evaluation | Evaluation based on execution time, success rate, and resource usage. |
 | Energy Evaluation | Evaluation based on energy consumption data. |
-shit
+
